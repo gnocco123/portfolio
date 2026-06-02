@@ -10,7 +10,6 @@ Personal portfolio landing page built for the ZN Agency application.
 portfolio/
 ├── index.html
 ├── style.css
-├── main.js
 └── README.md
 ```
 
